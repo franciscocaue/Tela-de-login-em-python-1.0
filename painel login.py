@@ -1,5 +1,6 @@
 import tkinter as tk
 
+#Mini banco de dados para testes
 contas = [
     ('teste', '1234'),
     ('teste2', '1357')
