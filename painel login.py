@@ -1,6 +1,5 @@
 import tkinter as tk
 
-#Mini banco de dados para testes
 contas = [
     ('teste', '1234'),
     ('teste2', '1357')
@@ -54,5 +53,7 @@ pagina_sistema = tk.Frame()
 tk.Label(pagina_sistema, text='logando com sucesso').pack()
 
 
+
+#ele roda o app  
 janela.mainloop()
 
